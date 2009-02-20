@@ -9,6 +9,11 @@ Install
 
 git clone git://github.com/randomutterings/mortgage_calculator_helper.git vendor/plubins/mortgage_calculator_helper
 
+# To install the included stylesheet run
+script/generate mortgage_calculator_helper styles
+
+# Don't forget to include the stylesheet in your layout
+<%= stylesheet_link_tag 'mortgage_calculator_helper' %>
 
 Usage
 =====

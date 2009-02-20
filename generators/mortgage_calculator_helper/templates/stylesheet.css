@@ -1,0 +1,54 @@
+.mortgage_calculator_title {
+  font-size: 22px;
+  font-weight: bold;
+  color: green;
+  padding-bottom: 5px; }
+
+.mortgage_calculator_header {
+  font-size: 14px;
+  font-weight: bold;
+  background-color: darkblue;
+  color: white;
+  text-align: center;
+  padding: 2px; }
+
+.mortgage_calculator_error {
+  background-color: #FCC;
+  border: solid 1px #C66; }
+
+.mortgage_calculator_information {
+  font-size: 10px;
+  padding-bottom: 10px; }
+
+.mortgage_calculator_form {
+  background-color: #F5F5F5; }
+
+.mortgage_calculator_payment_info {
+  background-color: #F5F5F5; }
+
+.mortgage_calculator_payment_total {
+  background-color: #EEEEEE; }
+
+.mortgage_calculator_pmi_info {
+  background-color: #FFFFCC; }
+
+.mortgage_calculator_pmi_total {
+  background-color: #FFFF99; }
+
+.mortgage_calculator_prop_tax_info {
+  background-color: #CCCCFF; }
+
+.mortgage_calculator_prop_tax_total {
+  background-color: #9999FF; }
+
+.mortgage_calculator_light_shade {
+  background-color: #EEEEEE; }
+
+.mortgage_calculator_dark_shade {
+  background-color: #CCCCCC; }
+
+.mortgage_calculator_year_totals {
+  background-color: #FFFFCC; }
+
+.mortgage_calculator_emphasis {
+  font-weight: bold; }
