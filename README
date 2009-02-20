@@ -1,13 +1,16 @@
 MortgageCalculatorHelper
 ========================
 
-Introduction goes here.
+Mortgage calculator with amortization schedule.  Based on a php script by David Tufts http://dave.imarc.net.
 
 
-Example
+Install
 =======
 
-Example goes here.
+git clone git://github.com/randomutterings/mortgage_calculator_helper.git vendor/plubins/mortgage_calculator_helper
 
 
-Copyright (c) 2009 [name of plugin creator], released under the MIT license
+Usage
+=====
+
+<%= mortgage_calculator_helper %>
