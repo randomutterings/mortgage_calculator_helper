@@ -18,4 +18,4 @@ script/generate mortgage_calculator_helper styles
 Usage
 =====
 
-<%= mortgage_calculator_helper %>
+<%= mortgage_calculator_tag %>
